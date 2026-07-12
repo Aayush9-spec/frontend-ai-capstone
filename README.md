@@ -16,3 +16,11 @@ This repository contains my work for the FlyRank Frontend AI Engineering Interns
 - Learn AI-assisted frontend development
 - Follow Conventional Commits
 - Build production-ready frontend applications
+
+## AI Workflow
+
+Cursor AI is used for:
+- Code generation
+- README improvements
+- Refactoring
+- Debugging
