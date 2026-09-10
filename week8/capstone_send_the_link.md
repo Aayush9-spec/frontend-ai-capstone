@@ -1,6 +1,6 @@
 # Capstone: Send the Link — Launch, Demo & Story
 
-**Assignment:** CUSTOM-MQX0QS1O-B788D1AA  
+**Assignment:** CUSTOM-MS4MLF4V-E2371199  
 **Track:** General AI Fluency  
 **Week:** 8  
 **Portfolio:** [https://frontend-ai-capstone.vercel.app](https://frontend-ai-capstone.vercel.app)  
