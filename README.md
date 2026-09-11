@@ -19,7 +19,7 @@ A portfolio repository for the **FlyRank Frontend AI Engineering Internship**, d
 
 This project uses **Cursor AI** throughout development for:
 
-- Code generation and scaffolding
+- Code generation and scaffolding 
 - README and documentation improvements
 - Refactoring and code quality
 - Debugging and troubleshooting
