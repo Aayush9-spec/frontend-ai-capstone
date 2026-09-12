@@ -9,7 +9,7 @@ A portfolio repository for the **FlyRank Frontend AI Engineering Internship**, d
 | Frontend   | HTML5, CSS3, JavaScript (ES6+)        |
 | Tooling    | Node.js (LTS), Git, Cursor IDE        |
 
-## Goals 
+## Goals  
 
 - Learn AI-assisted frontend development workflows
 - Follow [Conventional Commits](https://www.conventionalcommits.org/) for clear version history
